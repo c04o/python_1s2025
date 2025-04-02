@@ -4,7 +4,7 @@ las apariciones de un carácter específico con otro carácter, luego imprime la
 lista modificada.
 """
 
-l = ["Hola", "mundo", "Python", "es", "genial"]
+l = ["Hola,", "mundo!", "Python", "es", "genial"]
 c_viejo = "o"
 c_nuevo = "x"
 
